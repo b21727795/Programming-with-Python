@@ -46,6 +46,8 @@ def main():
 
     except IndexError:
         print("IndexError: number of input files less than expected.")
+    except Exception:
+        print('')
     finally:
         print('\n˜Game Over ˜')
 

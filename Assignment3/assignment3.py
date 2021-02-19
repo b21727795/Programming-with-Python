@@ -84,5 +84,5 @@ if __name__ == '__main__':
         letter_values_file_path = sys.argv[2]
         main(correct_words_file_path,letter_values_file_path)
     except IndexError:
-        print('You must write to arguments for this program')
+        print('You must write two arguments for this program')
     

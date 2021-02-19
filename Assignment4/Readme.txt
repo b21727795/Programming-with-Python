@@ -1,5 +1,5 @@
 The path find function with the health condition can be used for the path find function without the health condition.
-We can simply assign positive infine to health for normal maze problem Or it could be checked with an if else condition.
+We can simply assign positive infinite to health for normal maze problem Or it could be checked with an if else condition.
 But, I wanted to show it separately. If I run the normal maze problem on the same function, it would be a little more difficult to read the code.
 
 
